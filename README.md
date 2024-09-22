@@ -36,8 +36,11 @@ To run the Weather App locally:
 
 5. **Open your browser** and visit `http://localhost:3000` to view the Weather App.
 
+## Deployed Version
+
+You can access the deployed version of the application here:  
+[Weather App on Vercel](https://weather-app-theta-seven-61.vercel.app/)
 
 ## Contributing
 
 - Contributions are welcome! Please fork this repository and create a pull request with your improvements.
-
